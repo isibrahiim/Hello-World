@@ -1,0 +1,20 @@
+// CSS Reset
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Dosis", sans-serif;
+  font-size: 1.5rem;
+  line-height: 1.6;
+  background: #ccc;
+}
+
+// Class For The Heading --h1--Assignment One
+.center {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.6rem;
+}
